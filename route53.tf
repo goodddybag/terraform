@@ -1,5 +1,5 @@
 variable "domain_name" {
-  default    = "goodybag.live"
+  default    = "goodybag.me"
   type        = string
   description = "Domain name"
 }
