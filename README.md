@@ -1,5 +1,11 @@
 # terraform-project
 
+## Domain name
+goodybag.me
+
+## IAM USERNAME
+Goodybag
+
 ## Description
 A terraform folder that provisions resources such as virtual machines on AWS and creates a VPC, Subnets, Security groups for Virtual machines and application load balancers. It also 
 creates a route53 resource that gives an A record to the application load balancer's DNS.
